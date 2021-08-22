@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:JPraticeTests"
+      name = "JPraticeTests">
+      <FileRef
+         location = "group:JPraticeTests/JPraticeTests.m">
+      </FileRef>
+      <Group
+         location = "group:JPraticeTests"
+         name = "Supporting Files">
+         <FileRef
+            location = "group:JPraticeTests/Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:JPratice.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
